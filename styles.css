@@ -27,6 +27,11 @@ body {
     margin-bottom: 0;
 }
 
+.sub_text {
+    font-family: 'Nunito';
+    color: rgb(255, 255, 255);
+}
+
 .buttons {
     display: flex;
     flex-direction: row;
